@@ -24,7 +24,7 @@
 				"network": "tcp"
 			},
 			"sniffing": {
-				"enabled": true,
+				"enabled": false,
 				"destOverride": [
 					"http",
 					"tls"
